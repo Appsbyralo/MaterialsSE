@@ -1,0 +1,123 @@
+{
+  "title": "An App About Apps - Svenska",
+  "subtitle": "En samling av Swift-lektioner",
+  "publisherName": "Vallensbæk kommun och ATEA Danmark",
+  "feedIdentifier": "com.github.appsbyralo",
+  "contactURL": "mailto:ralotoft@gmail.com",
+  "formatVersion": "1.0",
+  "documents": [
+    {
+      "title": "An App About Apps",
+      "overviewSubtitle": "Allt du behöver för att börja skapa appar",
+      "detailSubtitle": "",
+      "description": "Ladda ner utbildningsprojektappen där du kan komma åt allt material, beskrivningar, aktiviteter, portfolio och dokument.",
+      "contentIdentifier": "com.github.appsbyralo.AAAASE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsSE/AAAASE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Svenska"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "1. Navigeringsfält",
+      "overviewSubtitle": "Allt du behöver för att börja skapa appar",
+      "detailSubtitle": "Lär dig att skapa ett navigeringsfält",
+      "description": "I denna Swift-applikation lär du dig genom övningar, kod och förklaringar hur du skapar ditt eget navigeringsfält (meny) i din app. Du lär dig att bygga olika antal knappar, sidor och multimedieinnehåll i din app.",
+      "contentIdentifier": "com.github.appsbyralo.NavigationSE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsSE/NavigationSE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Svenska"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "2. Stacks",
+      "overviewSubtitle": "Allt du behöver för att börja skapa appar",
+      "detailSubtitle": "Här arbetar vi med stacks",
+      "description": "I appen Stacks lär du dig att placera olika typer av objekt i Vstacks, Hstacks och Zstacks. Med denna app lär du dig att hantera designen av din applikation för att bäst utforma önskad layout.",
+      "contentIdentifier": "com.github.appsbyralo.StacksSE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsSE/StacksSE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Svenska"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/Stacks/preview.png",
+        "https://appsbyralo.github.io/Stacks/preview2.png",
+        "https://appsbyralo.github.io/Stacks/preview3.png",
+        "https://appsbyralo.github.io/Stacks/preview4.png"
+      ]
+    },
+    {
+      "title": "3. Innehåll",
+      "overviewSubtitle": "En unik plats att börja skapa dina egna appar",
+      "detailSubtitle": "Lär dig att lägga till innehåll i din applikation",
+      "description": "Med denna resurs lär du dig att infoga dina egna bilder, videor och länkar i din applikation för att göra den mer visuell och attraktiv.",
+      "contentIdentifier": "com.github.appsbyralo.ContentSE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsSE/ContentSE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Svenska"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    },
+    {
+      "title": "4. Saker för att komma igång",
+      "overviewSubtitle": "En unik plats att börja skapa dina egna appar",
+      "detailSubtitle": "Några saker för att snabbt komma igång",
+      "description": "Med denna app lär du dig några av de intressanta saker du behöver veta när du skapar appar, som att skapa olika typer av knappar, skjutreglageknappar, GPS-kartor och mycket mer.",
+      "contentIdentifier": "com.github.appsbyralo.ThingsSE",
+      "contentVersion": "1.0",
+      "url": "https://appsbyralo.github.io/MaterialsSE/ThingsSE.swiftpm.zip",
+      "publishedDate": "2024-08-18T12:00:00+00:00",
+      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+      "additionalInformation": [
+        {
+          "name": "Languages",
+          "value": "Svenska"
+        }
+      ],
+      "previewImageURLs": [
+        "https://appsbyralo.github.io/AAAADA/Preview.png"
+      ]
+    }
+  ]
+}
